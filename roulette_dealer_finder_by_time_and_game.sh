@@ -1,3 +1,5 @@
+#!/bin/bash
+
 date=$(echo $3 | sed s/-//)
 game=$(echo $4 | awk '{print tolower($0)}')
 

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 date=$(echo $3 | sed s/-//)
 
 if test "$1" == "--help"
