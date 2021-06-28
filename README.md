@@ -22,7 +22,3 @@ The assignment was based around building shell scripts for aggregating data and 
   * AM or PM
   * Date (Format: 01-01)
   * Game (BlackJack, Roulette, or HoldEm) (Data has been sanatized, so input is case-insensitive)
-
-
-
-git@github.com:urfriendglenn/cyber_unit3_hw.git
